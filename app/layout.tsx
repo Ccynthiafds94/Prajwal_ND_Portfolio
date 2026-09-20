@@ -1,4 +1,3 @@
-// @ts-expect-error Next.js processes this global stylesheet import at build time.
 import './globals.css';
 import Navbar from '../components/Navbar';
 
