@@ -20,7 +20,7 @@ export default function Contact() {
               <Mail size={18} /> prajwal.2912@gmail.com
             </a>
 
-            <a href="tel:+91961160846">
+            <a href="tel:+919611600846">
               <Phone size={18} /> +91 9611600846
             </a>
 
